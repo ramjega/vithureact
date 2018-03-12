@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "homepage": "http://vithuvijay.github.io/react-router",
+  "homepage": "https://ramjega.github.io/vithureact/",
   "scripts": {
     "watch": "webpack -d --watch",
     "build": "webpack",
